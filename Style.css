@@ -1,0 +1,21 @@
+#cv{
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 2%;
+   margin-bottom: 2%;
+   background-color: #f0f3f7
+   
+}
+#all{
+    background-color: white;
+    padding: 5%;
+    font-size: 19px;
+}
+#image{
+    height: 260px;
+    width: 210px;
+    text-align: right;
+}
+table, tr, td {
+    padding: 14px;
+}
